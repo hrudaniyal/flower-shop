@@ -1,4 +1,3 @@
-import logo from './images/sunflower.jpg';
 import './App.css';
 
 function App() {
